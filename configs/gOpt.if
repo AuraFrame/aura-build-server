@@ -1,0 +1,6 @@
+{
+    "options": {
+        "user": ["u", "user"],
+        "package": ["p", "pkgid"]
+    }
+}
